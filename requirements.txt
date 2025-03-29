@@ -1,0 +1,5 @@
+pybit==2.4.1
+python-telegram-bot==20.6
+pandas==2.1.3
+numpy==1.24.3
+ta-lib==0.4.28
